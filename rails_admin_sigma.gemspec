@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.files = Dir['Gemfile', 'LICENSE.md', 'README.md', 'Rakefile', 'app/**/*', 'config/**/*', 'lib/**/*', 'public/**/*']
   spec.licenses = %w(MIT)
   spec.homepage = 'https://github.com/sferik/rails_admin'
-  spec.name = 'rails_admin'
+  spec.name = 'rails_admin_sigma'
   spec.require_paths = %w(lib)
   spec.required_ruby_version     = '>= 1.9.3'
   spec.required_rubygems_version = '>= 1.8.11'

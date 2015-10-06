@@ -8,6 +8,7 @@ require 'rails_admin/config/sections/modal'
 require 'rails_admin/config/sections/list'
 require 'rails_admin/config/sections/export'
 require 'rails_admin/config/sections/show'
+require 'rails_admin/config/sections/invite'
 
 module RailsAdmin
   module Config
